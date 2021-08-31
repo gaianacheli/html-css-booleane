@@ -8,29 +8,52 @@ body{
     height: 200px;
 }
 
-.logo{
+.logo {
     height: 80px;
     padding-top: 100px;
     padding-left: 15px;
 }
 
-h1{
+.titolo {
     font-size: 60px;
     margin: 5px;
 }
-.fonte{
+.fonte {
     color: grey;
-    
-    
-}
-span{
-    color: rgb(6, 162, 252) ;
-}
-p{
     margin-top: -10px;
     margin-left: 5px;
+    
+}
+.nome {
+    color: rgb(6, 162, 252) ;
 }
 
-.descrizione{
+.tabella{
+    width: 1500px;
+
+    border-spacing: 0;
+}
+
+
+.descrizione {
     font-size: 12px;
+}
+
+.evidenziatore {
+    background-color:rgb(220, 255, 93);
+}
+
+.intestazionetabella {
+    background-color: rgb(19, 150, 226);
+   
+
+
+}
+.celle {
+    width: 500px;
+}
+
+.colorato{
+    background-color: rgb(176, 228, 248);
+}
 
