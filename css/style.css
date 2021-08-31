@@ -51,9 +51,45 @@ body{
 }
 .celle {
     width: 500px;
+    color: white;
 }
 
-.colorato{
+.colorato {
     background-color: rgb(176, 228, 248);
 }
+
+.consiglo {
+    color: rgb(87, 84, 84);
+    font-size: 20px;
+    margin-top: 10px;
+
+    
+
+.monitor {
+    background-image: url(../img/monitor.jpg) ;
+    background-size: 500px;
+    height: 300px;
+    margin-right: 1000px;   
+}
+
+.dati {
+    background-image: url(../img/graph.jpg) ;
+    background-size: 500px;
+    height: 300px;
+    margin-right: 1000px;
+   
+    
+    
+}
+.scritta {
+    margin-left: 20px;
+    color: white;
+    font-family: serif;
+    font-size: 40px;
+}
+
+
+    
+    
+
 
